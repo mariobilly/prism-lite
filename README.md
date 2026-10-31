@@ -6,6 +6,27 @@ A browser-based, music-reactive visual effects studio. Import an image, video or
 
 ![PRISM Lite](docs/screenshot.png)
 
+<!-- videos:start -->
+## See it in action
+
+<table><tr>
+<td width="64%" valign="top"><a href="docs/videos/tutorial.mp4"><img src="docs/videos/tutorial.jpg" alt="Full tutorial"></a><br><b>▶ <a href="docs/videos/tutorial.mp4">Full tutorial</a></b> (3:18, narrated, with captions)</td>
+<td width="36%" valign="top" align="center"><a href="docs/videos/ad.mp4"><img src="docs/videos/ad.gif" alt="25-second reel" width="240"></a><br><b>▶ <a href="docs/videos/ad.mp4">25-second reel</a></b></td>
+</tr></table>
+
+**Made with PRISM Lite (exported with its own Record button, music by mariobilly)**
+
+<table><tr>
+<td width="50%" align="center"><a href="docs/videos/examples/warp-speed.mp4"><img src="docs/videos/examples/warp-speed.gif" alt="Warp Speed"></a><br><a href="docs/videos/examples/warp-speed.mp4">Warp Speed</a></td>
+<td width="50%" align="center"><a href="docs/videos/examples/glitch-storm.mp4"><img src="docs/videos/examples/glitch-storm.gif" alt="Glitch Storm"></a><br><a href="docs/videos/examples/glitch-storm.mp4">Glitch Storm</a></td>
+</tr><tr>
+<td width="50%" align="center"><a href="docs/videos/examples/vhs-dream.mp4"><img src="docs/videos/examples/vhs-dream.gif" alt="VHS Dream"></a><br><a href="docs/videos/examples/vhs-dream.mp4">VHS Dream</a></td>
+<td width="50%" align="center"><a href="docs/videos/examples/mandala-bloom.mp4"><img src="docs/videos/examples/mandala-bloom.gif" alt="Mandala Bloom"></a><br><a href="docs/videos/examples/mandala-bloom.mp4">Mandala Bloom</a></td>
+</tr></table>
+
+Click any picture to play the video with sound.
+<!-- videos:end -->
+
 ## Run
 
 ```bash
